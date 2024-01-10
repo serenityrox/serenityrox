@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @serenityrox
-- 👀 I’m interested in AI, Cameras, Streaming
+- 👀 I’m interested in AI, Cameras, Streaming, Radius Authentication, IoT Platforms, Managed Wi-Fi, Access Control
 - 🌱 I’m currently learning ... A Lot
 - 💞️ I’m looking to collaborate on ... Just about anything of interest to me
 - 📫 How to reach me ... will@serenityrox.com
